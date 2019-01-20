@@ -2,12 +2,19 @@
 Developed with MSP430 MCU/ Android controller developed with AppInventor
 
 Hardware Components:
+
 MSP430 MCU w/ built-in LCD 
+
 1 x HC-06 bluetooth module 
+
 1 x SG-90 Servo motor
+
 2 x 6V DC motors 
+
 1 x L293D H bridge
+
 1 x HC-SR04 ultrasonic sensor
+
 #
 #
 #
