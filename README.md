@@ -28,3 +28,15 @@ Testing Autonomous mode
 
 
 <a href="https://imgflip.com/gif/2rkdx5"><img src="https://i.imgflip.com/2rkdx5.gif" title="made at imgflip.com"/></a>
+
+
+Front View
+
+
+<a href="https://imgflip.com/gif/2rkm1g"><img src="https://i.imgflip.com/2rkm1g.gif" title="made at imgflip.com"/></a>
+
+
+Side View
+
+
+<a href="https://imgflip.com/gif/2rkm5r"><img src="https://i.imgflip.com/2rkm5r.gif" title="made at imgflip.com"/></a>
