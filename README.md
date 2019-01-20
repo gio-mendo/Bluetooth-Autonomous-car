@@ -11,12 +11,20 @@ MSP430 MCU w/ built-in LCD
 #
 #
 #
-Testing movement buttons
+Testing remote control
 
 
 <a href="https://imgflip.com/gif/2rkcvd"><img src="https://i.imgflip.com/2rkcvd.gif" title="made at imgflip.com"/></a>
-#
+
+
 Testing servo buttons
 
 
 <a href="https://imgflip.com/gif/2rkdbe"><img src="https://i.imgflip.com/2rkdbe.gif" title="made at imgflip.com"/></a>
+
+
+
+Testing Autonomous mode
+
+
+<a href="https://imgflip.com/gif/2rkdx5"><img src="https://i.imgflip.com/2rkdx5.gif" title="made at imgflip.com"/></a>
